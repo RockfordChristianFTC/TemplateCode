@@ -1,9 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-  cout<<"LSHDDDDDXB!!!";
-  cout<<"Hello World!";
-  cout<<"DEERY!!!";
-  cout<<"Let's chat";
+  cout<<"Implode.jpg";
   return 0;
 }
